@@ -146,6 +146,7 @@
   .icon p {
     color: rgb(161, 232, 237);
     font-size: 14px;
+    font-weight: 500;
   }
 
   .ul_list {
