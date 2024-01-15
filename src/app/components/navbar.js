@@ -72,7 +72,6 @@ export default function Navbar() {
         </li>
       </ul>
       <div className={styles.icon_list}>
-        <FaGoogle className={styles.logos} />
         <FaInstagram className={styles.logos} />
         <FaFacebook className={styles.logos} />
         <FaTwitter className={styles.logos} />
