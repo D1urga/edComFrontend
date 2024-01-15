@@ -46,9 +46,20 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
+    padding: 10px 0;
   }
   .logo {
     color: rgb(161, 232, 237);
+    font-size: 18px;
+  }
+  .intro {
+    padding: 12px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(161, 232, 237);
+    background-color: #1e2020;
+    border-top: 2px solid rgb(161, 232, 237);
   }
 }
 @media screen and (max-width: 900px) and (min-width: 520px) {
@@ -100,9 +111,20 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
+    padding: 10px 0;
   }
   .logo {
     color: rgb(161, 232, 237);
+    font-size: 17px;
+  }
+  .intro {
+    padding: 15px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(161, 232, 237);
+    background-color: #1e2020;
+    border-top: 2px solid rgb(161, 232, 237);
   }
 }
 @media screen and (max-width: 520px) {
@@ -150,12 +172,24 @@
     font-size: 13px;
   }
   .icons {
-    width: 35%;
+    width: 32%;
     display: flex;
     align-items: center;
     justify-content: space-around;
+    padding: 10px 0;
   }
   .logo {
     color: rgb(161, 232, 237);
+    font-size: 17px;
+  }
+  .intro {
+    font-size: 15px;
+    padding: 17px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(161, 232, 237);
+    background-color: #1e2020;
+    border-top: 2px solid rgb(161, 232, 237);
   }
 }
